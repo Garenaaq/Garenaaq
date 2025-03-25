@@ -77,6 +77,11 @@ Here are some ideas to get you started:
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
+    </<td align="center" width="96"> 
+      <a href="https://zustand-demo.pmnd.rs">
+        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Zustand
     </td>
        <td align="center" width="96">
       <a href="https://sass-lang.com/">
