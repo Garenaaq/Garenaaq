@@ -1,4 +1,3 @@
-k
 <!--
 **Garenaaq/Garenaaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,13 +75,17 @@ Here are some ideas to get you started:
       <a href="https://redux.js.org/" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>Redux
-    </td>
-<td align="center" width="96"> 
-      <a href="https://zustand-demo.pmnd.rs">
+      <br>Redux<br>
+       <a href="https://zustand-demo.pmnd.rs">
         <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Zustand
+    </td>
+         <td align="center" width="96"> 
+      <a href="https://tanstack.com/query/latest/docs/framework/react/overview" >
+        <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" width="48" height="48" alt="Redux" />
+      </a>
+      <br>React Query
     </td>
        <td align="center" width="96">
       <a href="https://sass-lang.com/">
