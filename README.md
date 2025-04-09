@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <h4 align="left">I'm a Junior Frontend Web Developer from Russia 🛰️</h4>
 
-<br>
-
 <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 >  General
