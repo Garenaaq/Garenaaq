@@ -81,9 +81,9 @@ Here are some ideas to get you started:
     </td>
          <td align="center" width="96"> 
       <a href="https://tanstack.com/query/latest/docs/framework/react/overview" >
-        <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" width="48" height="48" alt="Redux" />
+        <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" width="48" height="48" alt="Redux" />
       </a>
-      <br>React Query
+      <br>React Query / RTK Query
     </td>
        <td align="center" width="96">
       <a href="https://sass-lang.com/">
