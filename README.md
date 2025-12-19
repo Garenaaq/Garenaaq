@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     </td>
          <td align="center" width="96"> 
       <a href="https://tanstack.com/query/latest/docs/framework/react/overview" >
-        <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" width="48" height="48" alt="Redux" />
+        <img src="https://tanstack.com/images/logos/logo-color-600.png" width="48" height="48" alt="React Query" />
       </a>
       <br>React Query / RTK Query
     </td>
