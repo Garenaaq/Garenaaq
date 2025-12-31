@@ -110,8 +110,34 @@ Here are some ideas to get you started:
       </a>
       <br>MongoDB
     </td>
+   <td align="center" width="96">
+    <a href="https://firebase.google.com/">
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+    </a>
+    <br>Firebase
+   </td>
   </tr> 
 </table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://vitest.dev/">
+        <img src="https://vitest.dev/logo.svg" width="48" height="48" alt="Vitest" />
+      </a>
+      <br>Vitest
+    </td>
+    <td align="center" width="96">
+      <a href="https://testing-library.com/">
+        <img src="https://testing-library.com/img/octopus-128x128.png" width="48" height="48" alt="Testing Library" />
+      </a>
+      <br>Testing Library
+    </td>
+  </tr>
+</table>
+
 
 > Other
 
