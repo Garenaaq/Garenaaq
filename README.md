@@ -144,19 +144,19 @@ Here are some ideas to get you started:
 <table  width='100%'>
      <td align="center" width="96">
       <a href="https://git-scm.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96"> 
       <a href="https://yarnpkg.com/" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="48" height="48" alt="yarn" />
       </a>
       <br>Yarn
     </td>
     <td align="center" width="96"> 
       <a href="https://www.npmjs.com/" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="48" height="48" alt="npm" />
       </a>
       <br>Npm
     </td>
