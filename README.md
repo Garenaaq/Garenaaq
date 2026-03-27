@@ -61,13 +61,13 @@ Here are some ideas to get you started:
       <a href="https://react.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>ReactJS
+      <br>React JS
     </td>
     <td align="center" width="96">
       <a href="https://react.dev/">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
       </a>
-      <br>VueJS
+      <br>Vue JS
     </td>
           <td align="center" width="96"> 
       <a href="https://nextjs.org/" >
