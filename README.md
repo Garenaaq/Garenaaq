@@ -28,25 +28,25 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="https://learn.javascript.ru/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
      <td align="center" width="96">
       <a href="https://react.dev/">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
           <td align="center" width="96"> 
       <a href="https://nextjs.org/" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
@@ -59,13 +59,19 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="https://react.dev/">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React JS
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://react.dev/">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      </a>
+      <br>VueJS
     </td>
           <td align="center" width="96"> 
       <a href="https://nextjs.org/" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
@@ -75,7 +81,7 @@ Here are some ideas to get you started:
       </a>
       <br>Redux<br>
        <a href="https://zustand-demo.pmnd.rs">
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="48" height="48" alt="Redux" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Zustand
     </td>
@@ -87,7 +93,7 @@ Here are some ideas to get you started:
     </td>
        <td align="center" width="96">
       <a href="https://sass-lang.com/">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass / SCSS
     </td>
@@ -100,7 +106,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96"> 
       <a href="https://nodejs.org/en" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
